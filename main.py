@@ -1,5 +1,4 @@
-# made by gih (https://github.com/glockinhand)
-# there might be lots of code that isnt even used anymore i was too lazy to remove it
+# this was made by soul (soul owns you niggers)
 import os
 import re
 import io
